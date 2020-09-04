@@ -1,5 +1,8 @@
 # Gestion de Projet et Génie Logiciel, M1, département informatique, Lyon 1
 
+### Contreras Baptiste
+### Dumont Mathéo 
+
 ## Informations
 
 * Le rapport est dans le dossier /rapport
